@@ -1,0 +1,10 @@
+elasticdeform
+numpy
+scikit-learn
+scipy
+tensorflow
+tensorflow-addons
+nibabel
+SimpleITK
+matplotlib
+scikit-image
